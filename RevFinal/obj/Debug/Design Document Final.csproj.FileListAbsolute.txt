@@ -1,0 +1,22 @@
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\bin\Debug\Design Document Mock Up.exe.config
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\bin\Debug\Design Document Mock Up.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\bin\Debug\Design Document Mock Up.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design Document Final.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmAdminForm.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmCreateAdmin.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmCreateWorker.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmDonorLogin.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmDonorPage.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmDonorSplash.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmMain.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmAddDonor.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmPreferences.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmProfileImage.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmUpdateCredentials.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmWorkercs.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.frmWorkLogin.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design_Document_Mock_Up.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design Document Final.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design Document Final.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design Document Mock Up.exe
+C:\Users\admin\Documents\Visual Studio 2019\Projects\BDMS - In Progress\obj\Debug\Design Document Mock Up.pdb
