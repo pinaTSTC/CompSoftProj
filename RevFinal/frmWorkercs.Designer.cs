@@ -125,7 +125,6 @@
             // btn_Refresh
             // 
             this.btn_Refresh.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.btn_Refresh.Enabled = false;
             this.btn_Refresh.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Refresh.Location = new System.Drawing.Point(468, 77);
             this.btn_Refresh.Name = "btn_Refresh";

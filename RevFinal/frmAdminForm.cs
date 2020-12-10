@@ -341,7 +341,7 @@ namespace Design_Document_Mock_Up
             cnn.ConnectionString = connectionString;
             cnn.Open();
 
-            sql = "CREATE TABLE test_table (Number varchar(1), " +
+            sql = "CREATE TABLE test_table (Number varchar(2), " +
                 "PersonID varchar(7), " +
                 "LastName varchar(255), " +
                 "FirstName varchar(255), " +
