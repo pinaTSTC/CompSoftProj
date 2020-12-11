@@ -60,6 +60,7 @@
             this.dgv_donorTable.Name = "dgv_donorTable";
             this.dgv_donorTable.Size = new System.Drawing.Size(408, 376);
             this.dgv_donorTable.TabIndex = 0;
+            this.dgv_donorTable.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_donorTable_CellClick);
             // 
             // btn_sendEmail
             // 

@@ -272,5 +272,10 @@ namespace Design_Document_Mock_Up
             dd.Fill(dsd, "test_table");
             dgv_donorTable.DataSource = dsd.Tables["test_table"].DefaultView;
         }
+
+        private void dgv_donorTable_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            btn_Delete.Enabled = true;
+        }
     }
 }
